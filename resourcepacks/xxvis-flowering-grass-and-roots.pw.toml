@@ -1,0 +1,13 @@
+name = "XXVI's Flowering Grass And Roots"
+filename = "Flowering Grass And Roots.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd45c9fb6d7e503d601f0130cda1a9e10a91c450"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4648602
+project-id = 889745

@@ -1,0 +1,13 @@
+name = "LoT - Korean Mod Translations"
+filename = "Kor_LangPack_24.1.23.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d331bd76b54b89d1d166051cde294e1eb4547e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5052509
+project-id = 965536

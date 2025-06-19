@@ -1,0 +1,13 @@
+name = "Foods & Plants (Cooking with Mindthemoods)"
+filename = "CookingwithMindthemoodsV9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c7c5e6e29160287208ab126697bbc615ea4391e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5648187
+project-id = 629628

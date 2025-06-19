@@ -1,0 +1,13 @@
+name = "caramelChat"
+filename = "caramelChat-mc1.20.1-forge-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M4vJe1FJ/versions/sIxkimvS/caramelChat-mc1.20.1-forge-1.2.1.jar"
+hash-format = "sha512"
+hash = "cfeb239477115e36d53e5e6680d848e41bf7ec86a607751b781fb92c23a3b383431477feee8168cc0c3c67ed3ccfa2e339d4b42be353f4248334afdf5752fde0"
+
+[update]
+[update.modrinth]
+mod-id = "M4vJe1FJ"
+version = "sIxkimvS"

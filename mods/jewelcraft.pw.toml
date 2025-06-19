@@ -1,0 +1,13 @@
+name = "Jewelcraft"
+filename = "Jewelry-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe8e8c28cc38452a8f5d2467dc061f9901e1282e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5642352
+project-id = 834599
