@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d28a49e3ecd961459034ed99f25f2e28639d88bd03091375dd3050e0bacda699"
+hash = "735935fb0f43b7556f601967421a1c9fac83f402940af1ce5481afb0f8a91363"
 metafile = true
 
 [[files]]
@@ -883,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2f562cf0b6de7d08ede7aed8065dabcb9ba5a8ce376465f6fd39d722b88aea00"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
 metafile = true
 
 [[files]]
