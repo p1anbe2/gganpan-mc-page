@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "07ff1b204dc995bc655d37a29518f41b56569fe49df558eb71026d0dc1dc742e"
+hash = "cef2dd266eded7cbb430449fc697075a458849cbfe2514d836ef72d9141c09bb"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d0717dc2e330717a01db528565269a6706ea308deb735969dd42cd479f25abea"
+hash = "3354f731d77d7ac8e2b67ff75fad3269ba5aeed3c3f9b054e53faaa10081941d"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+hash = "00a06884a4f8854fad85f2456c1d6c53ee09cc5e545a35e41cad24e82907a1ab"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "9dfeec9e729c2599a39d005da996ced9ab683e4e5cc51d5d65b554e8b726a73f"
+hash = "140ccba03937f14324303865c058b952ada73a238948b2043af6e45a289ac976"
 metafile = true
 
 [[files]]
@@ -438,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "1a054eea3045740477b775fd87107ec488fbfe98fa6ef32f1ac907f67efc92fe"
 metafile = true
 
 [[files]]
@@ -551,6 +556,11 @@ hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
 hash = "8fc0345ebeffd70bd021fa92318858a55c77c82c2683e02af15a1329d8b7165e"
 metafile = true
@@ -642,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -672,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
@@ -726,6 +736,11 @@ hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-exporter.pw.toml"
+hash = "78d17adb22ffb4e48c8dab4565a45bd8de87c185a8e09e4c8f202bdaff3a0012"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "62a76c5212c04d15c27d7c1141f0a0d7d803aa10d172444359e4dacbdba6da7b"
 metafile = true
@@ -742,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "b8c2ba91c889b159d1b85c11293927958401b4df1898dced176bb70984a22259"
+hash = "b6c84acc6f32d012f1bf0da41c8ebda66e26f2d70614a96779e9d6139b186532"
 metafile = true
 
 [[files]]
@@ -797,7 +812,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+hash = "bec4fd7f9b90e9040786e31d14bf4af7fb42fce842b9f5acfdd0821c973ecb82"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d28a49e3ecd961459034ed99f25f2e28639d88bd03091375dd3050e0bacda699"
 metafile = true
 
 [[files]]
