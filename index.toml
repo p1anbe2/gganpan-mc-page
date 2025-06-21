@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "CNAME"
-hash = "8a7a1f4cc17966f7f1ef3175ce5791949bcdc89c26ad0180c1f8ba43a047e1e3"
-
-[[files]]
-file = "README.md"
-hash = "933372584cab9534cc0e334d6e97d326fef865cac1065b00171ed278c0517769"
-
-[[files]]
-file = "index.html"
-hash = "f8b7e66d6d85d96570d90ad78a545e22fed5e9cba200195b4979ea6427eb4cad"
-
-[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "ff21f80c145c64bf072a7e4e949cc864796bab62361a3443de3fb494370eca88"
 metafile = true
@@ -322,11 +306,6 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
 metafile = true
@@ -348,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "93364566437d0965a12f68f5e676345341c2d9d7e3b24d2ecfd5b932f6057cc4"
+hash = "a0786998e3c2854f3cf39b7c5fc21dc3107024a912b81e3f48d40502d7d7d5fc"
 metafile = true
 
 [[files]]
@@ -912,38 +891,13 @@ hash = "c815fcb52ea1d8245cfb3d1efc8926e291e74cacea2b761c4272bdaffefbd78d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/connected-clean-glass-fusion.pw.toml"
-hash = "d56bfa51ed04e018f789a86f9e3fb9a65856deca2458a13f077de7918f40ecd1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
 metafile = true
 
 [[files]]
-file = "resourcepacks/lot-korean-mod-translations.pw.toml"
-hash = "6d85e1acf28ad0c7f8a8c5d9884338551368185804393d30128901c9aa70a49b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/sconces.pw.toml"
 hash = "3bc1139629f0fffc2cb2c1b7ad99043cbc1cebfa986208870474c8ad523dc1e1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/shasskors-pride-bees.pw.toml"
-hash = "18b97915c813d71e388e695bc5dcff21e3589fdc19181d07ff63de1b070f6ed5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "66e7fabf1a08eb6c100f1ac978cf31da3d21821e52f5356c1c0844ca931debb3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xxvis-flowering-grass-and-roots.pw.toml"
-hash = "ebea142f4152e8b00dfd6187fa8edf5d57a020ffc5fcb73828216be634dc274a"
 metafile = true
 
 [[files]]
