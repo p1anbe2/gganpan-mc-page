@@ -1,6 +1,6 @@
 name = "Sconces"
 filename = "sconces.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

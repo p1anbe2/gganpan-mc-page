@@ -912,12 +912,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+hash = "33c625f334d68395ca1084fc7a3efb1cdd80d2d8c9eaf234150c64bd62054f1d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/sconces.pw.toml"
-hash = "3bc1139629f0fffc2cb2c1b7ad99043cbc1cebfa986208870474c8ad523dc1e1"
+hash = "b04bec94b4db502ba205d898a6b007f8a2900262f6060b6751a892e9c535ae98"
 metafile = true
 
 [[files]]
