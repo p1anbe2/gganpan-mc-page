@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "af412170c07febfb5c611b7237d806230dc83584"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "소리 개선 모드로 저사양으로 구동이 어려우면 제거"
+default = true
+
 [update]
 [update.curseforge]
 file-id = 6570130

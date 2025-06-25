@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/DQD98FEX/entityculling-fo
 hash-format = "sha512"
 hash = "af9ba81d12b1f3f425203cabecbd0409686cedc7b4491e751e09b32732a971adfaeca0f8e81671d2055621cdcd6160481f2c7268a38280fd80626a4ffa61fb68"
 
+[option]
+optional = true
+description = "성능 개선 모드로 저사양으로 구동이 어려우면 제거\n\n해당 모드는 FPS 개선 모드이지만 CPU 성능 부족 시에는 제거하세요."
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"

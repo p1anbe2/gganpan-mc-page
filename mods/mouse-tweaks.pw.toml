@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "d751153e722a4e014691c83f39f5b07c6ec5333c"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "인벤토리 편의성 모드로 저사양으로 구동이 어렵거나 사용하기 불편하면 제거"
+default = true
+
 [update]
 [update.curseforge]
 file-id = 5338457

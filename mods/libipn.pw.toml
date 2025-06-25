@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "인벤토리 편의성 모드로 저사양으로 구동이 어렵거나 사용하기 불편하면 제거\n\nInventory Profiles Next 모드는 libIPN 모드에 의존하므로 같이 제거해야 합니다."
+default = true
+
 [update]
 [update.curseforge]
 file-id = 5208511

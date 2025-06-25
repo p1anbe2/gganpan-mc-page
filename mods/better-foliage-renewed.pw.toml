@@ -1,11 +1,16 @@
 name = "Better Foliage Renewed"
 filename = "betterfoliage-5.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
 hash = "4163772d08837daf22034e5333ddefc8532cdb69"
 mode = "metadata:curseforge"
+
+[option]
+optional = true
+description = "풍성한 나뭇잎 모드로 저사양으로 구동이 어려우면 제거\n\n해당 모드는 그래픽카드의 VRAM 부족 시 제거하세요."
+default = true
 
 [update]
 [update.curseforge]

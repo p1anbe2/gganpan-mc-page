@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "d0bbe7c23049892b154b6417904dd027fb53a37a"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "미니맵 모드로 저사양으로 구동이 어려우면 제거\n\n해당 모드는 최후의 순간까지도 구동이 어러울 경우에만 비활성화 하세요. 매우 불편할 수 있으므로 주의!"
+default = true
+
 [update]
 [update.curseforge]
 file-id = 5789363

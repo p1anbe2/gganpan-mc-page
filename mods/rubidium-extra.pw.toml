@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "bb422d5626bf69841e444a3e545c8e71b6928cf8"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "렌더러/셰이더 모드로 저사양으로 구동이 어려우면 제거\n\n아래 모드도 연관되어 같이 제거해야합니다.\n- Oculus\n- Embeddium\n- Sodium/Embeddium Dynamic Lights\n-Sodium/Embeddium Options API\n- Embeddium (Rubidium) Extra"
+default = true
+
 [update]
 [update.curseforge]
 file-id = 6101745

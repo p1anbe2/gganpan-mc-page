@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/LCiGeVOs/ExtraSoundsNext-
 hash-format = "sha512"
 hash = "020040780c2677e536d3acfdca5c600e0b47f2b833337089796142ef1da32c0c9f84012be37b9bce9c141055c879ca38d49835cd320886d73620de62ab45e59f"
 
+[option]
+optional = true
+description = "소리 개선 모드로 저사양으로 구동이 어려우면 제거"
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "jv7tzVE4"

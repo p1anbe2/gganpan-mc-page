@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "f6d7615ac5349fc1625cd2941a5d861c52428a0b"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+description = "셜커 박스 내용물 프리뷰 모드로 저사양으로 구동이 어렵거나 사용하기 불편하면 제거"
+default = true
+
 [update]
 [update.curseforge]
 file-id = 4611155
