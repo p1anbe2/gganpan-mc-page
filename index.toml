@@ -16,6 +16,11 @@ hash = "479cc3140466aec890ad8c9073dcf0d6dbe1f5cad8e8f35f3d650ec2c49a367b"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11577b0fa86cddb2fd26083409a9dbe4a2aadc031f9627ffeb38cca55095ac67"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "0a150d93333b0c391532472d90550d854a1af2ce0cf1ba74e1cfc34b1bc89730"
 metafile = true
@@ -793,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/server-side-vein-miner.pw.toml"
 hash = "261eb7c728a24bc6366e895efbd746b06a11116b09f50ab14c496edc5d77510f"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "1c4b1b4173e7a0cd002f59089c4c2625d9632bf6f0d36fda063bd9d974d90866"
 metafile = true
 
 [[files]]
